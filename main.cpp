@@ -9,7 +9,7 @@ using std::setprecision;
 int main() {
 
 	int scores[10] = {10, 56, 65, 88, 90, 99, 43, 67, 89, 95};
-	double sum = 0;
+	ing sum = 0;
 	int passing = 0;
 	int max = scores[0];
 	int min = scores[0];
